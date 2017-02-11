@@ -1,0 +1,26 @@
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+ 
+          
+           /* System.Console.Write("Enter Your Name: ");
+
+            string n = System.Console.ReadLine();
+       
+            System.Console.Write("Enter Your Id: ");
+            string i = System.Console.ReadLine();
+           
+            System.Console.Write("Enter Your semester: ");
+            int s = System.Convert.ToInt32(System.Console.ReadLine());
+           
+            System.Console.WriteLine("==Your Info===\n"+n+"\n"+i+"\n"+s);*/
+            
+
+
+        }
+    }
+}

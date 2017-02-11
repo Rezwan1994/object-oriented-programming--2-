@@ -1,0 +1,44 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            byte x = System.Convert.ToByte(System.Console.ReadLine());
+            System.Console.WriteLine(byte.MinValue);
+            System.Console.WriteLine(byte.MaxValue);
+            short y = System.Convert.ToInt16(System.Console.ReadLine());
+            System.Console.WriteLine(short.MinValue);
+            System.Console.WriteLine(short.MaxValue);
+            int z = System.Convert.ToInt32(System.Console.ReadLine());
+            System.Console.WriteLine(int.MinValue);
+            System.Console.WriteLine(int.MaxValue);
+            long s = System.Convert.ToInt64(System.Console.ReadLine());
+            System.Console.WriteLine(long.MinValue);
+            System.Console.WriteLine(long.MaxValue);
+            float f = System.Convert.ToSingle(System.Console.ReadLine());
+            System.Console.WriteLine(float.MinValue);
+            System.Console.WriteLine(float.MaxValue);
+            double d = System.Convert.ToDouble(System.Console.ReadLine());
+            System.Console.WriteLine(double.MinValue);
+            System.Console.WriteLine(double.MaxValue);
+            decimal de = System.Convert.ToDecimal(System.Console.ReadLine());
+            System.Console.WriteLine(decimal.MinValue);
+            System.Console.WriteLine(decimal.MaxValue);
+            bool b = System.Convert.ToBoolean(System.Console.ReadLine());
+         
+   
+            char c = System.Convert.ToChar(System.Console.ReadLine());
+            System.Console.WriteLine(char.MinValue);
+            System.Console.WriteLine(char.MaxValue);
+            
+
+        }
+    }
+}

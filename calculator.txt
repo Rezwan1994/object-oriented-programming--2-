@@ -1,0 +1,67 @@
+namespace Calcutor
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            while (true)
+            {
+            System.Console.WriteLine("For Addition press 1");
+            System.Console.WriteLine("For substruction press 2");
+            System.Console.WriteLine("For multification press 3");
+            System.Console.WriteLine("For divition press 4");
+            System.Console.WriteLine("For End press 5");
+            int i = System.Convert.ToInt32(System.Console.ReadLine());
+          
+                if (i == 1)
+                {
+                    System.Console.WriteLine("Enter your First number:");
+                    int f = System.Convert.ToInt32(System.Console.ReadLine());
+                    System.Console.WriteLine("Enter your Second number:");
+                    int s = System.Convert.ToInt32(System.Console.ReadLine());
+                    System.Console.Write("Result : ");
+                    int r = f + s;
+                    System.Console.WriteLine(r);
+                }
+                else if (i == 2)
+                {
+                    System.Console.WriteLine("Enter your First number:");
+                    int f = System.Convert.ToInt32(System.Console.ReadLine());
+                    System.Console.WriteLine("Enter your Second number:");
+                    int s = System.Convert.ToInt32(System.Console.ReadLine());
+                    System.Console.Write("Result : ");
+                    int r = f - s;
+                    System.Console.WriteLine(r);
+                }
+                else if (i == 3)
+                {
+                    System.Console.WriteLine("Enter your First number:");
+                    int f = System.Convert.ToInt32(System.Console.ReadLine());
+                    System.Console.WriteLine("Enter your Second number:");
+                    int s = System.Convert.ToInt32(System.Console.ReadLine());
+                    System.Console.Write("Result : ");
+                    int r = f * s;
+                    System.Console.WriteLine(r);
+                }
+                else if (i == 4)
+                {
+                    System.Console.WriteLine("Enter your First number:");
+                    int f = System.Convert.ToInt32(System.Console.ReadLine());
+                    System.Console.WriteLine("Enter your Second number:");
+                    int s = System.Convert.ToInt32(System.Console.ReadLine());
+                    System.Console.Write("Result : ");
+                    int r = f / s;
+                    System.Console.WriteLine(r);
+                }
+                else if(i == 5)
+                {
+                    System.Console.Clear();
+                }
+
+            }
+            
+            
+            
+        }
+    }
+}

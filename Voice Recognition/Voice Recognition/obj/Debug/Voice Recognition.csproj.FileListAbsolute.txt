@@ -1,0 +1,9 @@
+c:\users\gadgets planet\documents\visual studio 2012\Projects\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe.config
+c:\users\gadgets planet\documents\visual studio 2012\Projects\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csprojResolveAssemblyReference.cache
+c:\users\gadgets planet\documents\visual studio 2012\Projects\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Form1.resources
+c:\users\gadgets planet\documents\visual studio 2012\Projects\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Properties.Resources.resources
+c:\users\gadgets planet\documents\visual studio 2012\Projects\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csproj.GenerateResource.Cache
+c:\users\gadgets planet\documents\visual studio 2012\Projects\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe
+c:\users\gadgets planet\documents\visual studio 2012\Projects\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.pdb
+c:\users\gadgets planet\documents\visual studio 2012\Projects\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.exe
+c:\users\gadgets planet\documents\visual studio 2012\Projects\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.pdb

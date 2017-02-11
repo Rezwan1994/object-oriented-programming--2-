@@ -1,0 +1,9 @@
+D:\lab2\Lab Performence\LabTask1\bin\Debug\LabTask1.exe.config
+D:\lab2\Lab Performence\LabTask1\bin\Debug\LabTask1.exe
+D:\lab2\Lab Performence\LabTask1\bin\Debug\LabTask1.pdb
+D:\lab2\Lab Performence\LabTask1\obj\Debug\LabTask1.csprojResolveAssemblyReference.cache
+D:\lab2\Lab Performence\LabTask1\obj\Debug\LabTask1.exe
+D:\lab2\Lab Performence\LabTask1\obj\Debug\LabTask1.pdb
+H:\My_Work\c#\14-27307-2\14-27307-2\LabTask1\bin\Debug\LabTask1.exe.config
+H:\My_Work\c#\14-27307-2\14-27307-2\LabTask1\obj\Debug\LabTask1.exe
+H:\My_Work\c#\14-27307-2\14-27307-2\LabTask1\obj\Debug\LabTask1.pdb
